@@ -17,11 +17,11 @@ It aims to showcase essential front-end development skills, content structure, a
 
 ## 🔧 Technologies Used | التقنيات المستخدمة
 
-- ✅ HTML5  
+
   - ✅ HTML5  
-- 🎨 CSS3  
+
   - 🎨 CSS3  
-- 💻 Git & GitHub  
+
   - 💻 Git و GitHub  
 
 ---
@@ -42,9 +42,6 @@ It aims to showcase essential front-end development skills, content structure, a
 🌐 **Live Demo:** [Coming Soon...]  
 🌐 **الموقع المباشر:** [سيتم نشره قريبًا...]
 
-📸 **UI Snapshot (لقطة شاشة للواجهة):**  
-![Platform Screenshot](A_webpage_screenshot_in_both_English_and_Arabic_fe.png)
-
 ---
 
 ## 👩‍💻 Author Info | معلومات عني
@@ -58,9 +55,6 @@ It aims to showcase essential front-end development skills, content structure, a
 
 🌐 **Live Demo:** [Coming Soon...]  
 🌐 **الموقع المباشر:** [سيتم نشره قريبًا...]
-
-📸 **UI Snapshot (لقطة شاشة للواجهة):**  
-![Platform Screenshot](https://raw.githubusercontent.com/openai-user-support/project-assets/main/A_webpage_screenshot_in_both_English_and_Arabic_fe.png)
 
 > 📝 “Learning is a lifelong journey — every step matters.”  
 > 📝 "التعلم رحلة مستمرة — وكل خطوة تصنع فرقاً."
