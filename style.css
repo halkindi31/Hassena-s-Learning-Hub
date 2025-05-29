@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>منصتي التعليمية - Hassena's Learning Platform</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <div class="logo">📘 Hassena's Learning</div>
+    <h1>مرحباً بك في منصتي التعليمية</h1>
+    <p>منصة تعليمية تفاعلية لتطوير مهاراتك</p>
+  </header>
+
+  <section class="courses">
+    <h2>📚 الدورات المتاحة</h2>
+    <div class="course-list">
+      <div class="course-card">
+        <h3>🔹 دورة AWS للحوسبة السحابية</h3>
+        <p>تعلم أساسيات AWS وابدأ رحلتك في عالم الكلاود</p>
+      </div>
+      <div class="course-card">
+        <h3>🔹 بناء ملف GitHub احترافي</h3>
+        <p>تعلم كيف ترفع مشاريعك وتكتب README بشكل مميز</p>
+      </div>
+      <div class="course-card">
+        <h3>🔹 مهارات التواصل الفعال</h3>
+        <p>طور أسلوبك في التواصل والتأثير</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 Hassena's Learning Platform | جميع الحقوق محفوظة</p>
+  </footer>
+</body>
+</html>
+body {
+  font-family: 'Cairo', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f6f9;
+  color: #333;
+  direction: rtl;
+}
+
+header {
+  background: linear-gradient(to left, #004aad, #0277bd);
+  color: white;
+  text-align: center;
+  padding: 40px 20px;
+}
+
+header .logo {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 32px;
+  margin: 10px 0;
+}
+
+p {
+  font-size: 18px;
+}
+
+section.courses {
+  padding: 30px 20px;
+}
+
+.courses h2 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #004aad;
+}
+
+.course-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 700px;
+  margin: auto;
+}
+
+.course-card {
+  background-color: #fff;
+  border-left: 6px solid #004aad;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+  transition: transform 0.2s;
+}
+
+.course-card:hover {
+  transform: translateY(-5px);
+}
+
+footer {
+  background-color: #eeeeee;
+  text-align: center;
+  padding: 15px;
+  font-size: 14px;
+  margin-top: 40px;
+}
