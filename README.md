@@ -1,40 +1,60 @@
-# My Learning Platform | منصتي التعليمية
+# 🌐 Hassena's Learning Platform | منصتي التعليمية
 
-Welcome to my training project developed during the AWS Cloud Computing course offered by Manara Teach.  
-مرحبًا بكم في مشروعي التدريبي الذي تم تطويره خلال دورة الحوسبة السحابية من AWS المقدمة من منصة منارة.
+Welcome to my learning platform project developed as part of the AWS Cloud Computing course from Manara Teach.  
+مرحبًا بكم في مشروعي التعليمي الذي تم تطويره ضمن دورة الحوسبة السحابية من AWS مع منارة.
 
-This project is a simple educational platform built using HTML and CSS.  
-هذا المشروع عبارة عن منصة تعليمية بسيطة تم إنشاؤها باستخدام HTML وCSS.
+---
 
-The main goal of the project is to showcase my basic web development skills and demonstrate how to upload a project to GitHub.  
-الهدف الرئيسي من المشروع هو عرض مهاراتي الأساسية في تطوير المواقع وشرح كيفية رفع مشروع على GitHub.
+## ✨ Project Overview | لمحة عن المشروع
 
-## Technologies Used | التقنيات المستخدمة
+This platform is a simple, responsive, and bilingual (Arabic-English) educational website built using HTML and CSS.  
+هذه المنصة هي موقع تعليمي بسيط ومتجاوب بثنائية اللغة (عربي - إنجليزي) باستخدام HTML و CSS.
 
-- HTML5  
-  - HTML5
-- CSS3  
-  - CSS3
-- Git & GitHub  
-  - Git و GitHub
+It aims to showcase essential front-end development skills, content structure, and visual presentation.  
+تهدف إلى عرض مهاراتي في تطوير الواجهات الأمامية، وتنظيم المحتوى، والعرض البصري الجذاب.
 
-## What I Learned | ماذا تعلمت
+---
 
-- How to create and organize a GitHub repository  
-  - كيفية إنشاء وتنظيم مستودع GitHub  
-- Writing a clean and professional README file  
-  - كتابة ملف README احترافي ومنسق  
-- Presenting a simple project publicly  
-  - عرض مشروع بسيط بشكل عام للناس
+## 🔧 Technologies Used | التقنيات المستخدمة
 
-## My Official Accounts | حساباتي الرسمية
+- ✅ HTML5  
+  - ✅ HTML5  
+- 🎨 CSS3  
+  - 🎨 CSS3  
+- 💻 Git & GitHub  
+  - 💻 Git و GitHub  
+
+---
+
+## 🎯 Key Skills Gained | المهارات المكتسبة
+
+- Creating and managing GitHub repositories  
+  - إنشاء وإدارة مستودعات GitHub  
+- Writing a clean and visual README  
+  - كتابة ملف README بصري ومنظم  
+- Showcasing projects professionally online  
+  - عرض المشاريع بشكل احترافي على الإنترنت
+
+---
+
+## 📌 Project Preview | معاينة المشروع
+
+🌐 **Live Demo:** [Coming Soon...]  
+🌐 **الموقع المباشر:** [سيتم نشره قريبًا...]
+
+🖼️ **UI Snapshot (لقطة شاشة للواجهة):**  
+![Platform Screenshot](put-your-image-link-here)
+
+---
+
+## 👩‍💻 Author Info | معلومات عني
 
 - GitHub: [halkindi31](https://github.com/halkindi31)  
-  - جيت هب: [halkindi31](https://github.com/halkindi31)  
+  - حسابي على GitHub: [halkindi31](https://github.com/halkindi31)  
 - LinkedIn: [Hassena Alkindi](http://linkedin.com/in/hassena-alkindi-94a0592b6)  
-  - لينكدإن: [حسينة الكندي](http://linkedin.com/in/hassena-alkindi-94a0592b6)
+  - حسابي على LinkedIn: [حسينة الكندي](http://linkedin.com/in/hassena-alkindi-94a0592b6)  
 
-## Final Note | ملاحظة ختامية
+---
 
-"Learning is a lifelong journey — every step matters."  
-"التعلُّم رحلة تستمر مدى الحياة — وكل خطوة تصنع فرقاً."
+> 📝 “Learning is a lifelong journey — every step matters.”  
+> 📝 "التعلم رحلة مستمرة — وكل خطوة تصنع فرقاً."
